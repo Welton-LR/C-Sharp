@@ -1,0 +1,14 @@
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\bin\Debug\net7.0\Estudo-de-Classes.exe
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\bin\Debug\net7.0\Estudo-de-Classes.deps.json
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\bin\Debug\net7.0\Estudo-de-Classes.runtimeconfig.json
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\bin\Debug\net7.0\Estudo-de-Classes.dll
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\bin\Debug\net7.0\Estudo-de-Classes.pdb
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.AssemblyInfoInputs.cache
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.AssemblyInfo.cs
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.csproj.CoreCompileInputs.cache
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.dll
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\refint\Estudo-de-Classes.dll
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.pdb
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\Estudo-de-Classes.genruntimeconfig.cache
+C:\Users\werod\OneDrive\Área de Trabalho\DEV\C-Sharp\Estudo-de-Classes\obj\Debug\net7.0\ref\Estudo-de-Classes.dll
